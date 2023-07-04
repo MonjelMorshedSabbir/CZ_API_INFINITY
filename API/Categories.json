@@ -137,6 +137,15 @@
             "list": "education"
         },
         {
+            "title": "EID Mubarak",
+            "titleHex": "fafafa",
+            "iconUrl": "",
+            "bgHex": "584993",
+            "bgImgUrl": "https://cdn.discordapp.com/attachments/1053041868432224266/1122839602730913832/EidMubarak.webp",
+            "lottieUrl": "",
+            "list":"eid"
+        },
+        {
             "title": "Facebook & Instagram",
             "titleHex": "259dee",
             "iconUrl": "https://media.discordapp.net/attachments/1053041868432224266/1116316760673632298/facebook.webp",
@@ -497,15 +506,6 @@
             "list": "weekend"
         },
         {
-            "title": "Work",
-            "titleHex": "fafafa",
-            "iconUrl": "",
-            "bgHex": "",
-            "bgImgUrl": "https://media.discordapp.net/attachments/1053041868432224266/1116316925933391942/work.jpg",
-            "lottieUrl": "",
-            "list": "work"
-        },
-        {
             "title": "Winter",
             "titleHex": "fafafa",
             "iconUrl": "",
@@ -513,6 +513,15 @@
             "bgImgUrl": "https://media.discordapp.net/attachments/1053041868432224266/1116316926168268900/winter.jpg",
             "lottieUrl": "",
             "list": "winter"
+        },
+        {
+            "title": "Work",
+            "titleHex": "fafafa",
+            "iconUrl": "",
+            "bgHex": "",
+            "bgImgUrl": "https://media.discordapp.net/attachments/1053041868432224266/1116316925933391942/work.jpg",
+            "lottieUrl": "",
+            "list": "work"
         }
     ]
 }
