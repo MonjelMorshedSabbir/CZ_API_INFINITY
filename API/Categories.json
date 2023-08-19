@@ -66,9 +66,9 @@
         },
         {
             "title": "Boys",
-            "titleHex": "1f4b74",
+            "titleHex": "fafafa",
             "iconUrl": "https://media.discordapp.net/attachments/1053041868432224266/1142515751622811668/boys.png",
-            "bgHex": "F09A9D",
+            "bgHex": "1f4b74",
             "bgImgUrl": "",
             "lottieUrl": "off",
             "list": "boys"
