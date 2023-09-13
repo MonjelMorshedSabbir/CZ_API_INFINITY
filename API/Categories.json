@@ -218,6 +218,15 @@
             "list": "forgiveness"
         },
         {
+            "title": "Friday",
+            "titleHex": "fafafa",
+            "iconUrl": "https://media.discordapp.net/attachments/1053041868432224266/1151469747637063680/friday.png",
+            "bgHex": "165b7d",
+            "bgImgUrl": "",
+            "lottieUrl": "off",
+            "list": "friday"
+        },
+        {
             "title": "Friendship",
             "titleHex": "5d524c",
             "iconUrl": "https://media.discordapp.net/attachments/1053041868432224266/1116316843813130250/friendship.png",
@@ -353,6 +362,15 @@
             "list": "missyou"
         },
         {
+            "title": "Monday",
+            "titleHex": "fafafa",
+            "iconUrl": "https://media.discordapp.net/attachments/1053041868432224266/1151469747997782086/monday.png",
+            "bgHex": "05b7bb",
+            "bgImgUrl": "",
+            "lottieUrl": "off",
+            "list": "monday"
+        },
+        {
             "title": "Motivational",
             "titleHex": "",
             "iconUrl": "https://media.discordapp.net/attachments/1053041868432224266/1116316868689543229/motivational.png",
@@ -416,6 +434,15 @@
             "list": "sad"
         },
         {
+            "title": "Saturday",
+            "titleHex": "fafafa",
+            "iconUrl": "https://media.discordapp.net/attachments/1053041868432224266/1151469746160680970/saturday.png",
+            "bgHex": "3caf2c",
+            "bgImgUrl": "",
+            "lottieUrl": "off",
+            "list": "saturday"
+        },
+        {
             "title": "Self-Care",
             "titleHex": "fafafa",
             "iconUrl": "https://media.discordapp.net/attachments/1053041868432224266/1116316910041190420/selfcare.webp",
@@ -470,6 +497,15 @@
             "list": "summer"
         },
         {
+            "title": "Sunday",
+            "titleHex": "fafafa",
+            "iconUrl": "https://media.discordapp.net/attachments/1053041868432224266/1151469746462666782/sunday.png",
+            "bgHex": "058041",
+            "bgImgUrl": "",
+            "lottieUrl": "off",
+            "list": "sunday"
+        },
+        {
             "title": "Thank You",
             "titleHex": "fafafa",
             "iconUrl": "https://media.discordapp.net/attachments/1053041868432224266/1116316924943548466/thankYou.png",
@@ -488,6 +524,15 @@
             "list": "thoughts"
         },
         {
+            "title": "Thursday",
+            "titleHex": "fafafa",
+            "iconUrl": "https://media.discordapp.net/attachments/1053041868432224266/1151469746747871242/thursday.png",
+            "bgHex": "47a0a0",
+            "bgImgUrl": "",
+            "lottieUrl": "off",
+            "list": "thursday"
+        },
+        {
             "title": "Travel",
             "titleHex": "3f9a17",
             "iconUrl": "",
@@ -504,6 +549,24 @@
             "bgImgUrl": "",
             "lottieUrl": "",
             "list": "trust"
+        },
+        {
+            "title": "TuesDay",
+            "titleHex": "fafafa",
+            "iconUrl": "https://media.discordapp.net/attachments/1053041868432224266/1151469747049873439/tuesday.png",
+            "bgHex": "bc6250",
+            "bgImgUrl": "",
+            "lottieUrl": "off",
+            "list": "tuesday"
+        },
+        {
+            "title": "Wednesday",
+            "titleHex": "fafafa",
+            "iconUrl": "https://media.discordapp.net/attachments/1053041868432224266/1151469747356053564/wednesday.png",
+            "bgHex": "086f3a",
+            "bgImgUrl": "",
+            "lottieUrl": "off",
+            "list": "wednesday"
         },
         {
             "title": "Weekend",
