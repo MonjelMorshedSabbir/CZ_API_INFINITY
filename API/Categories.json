@@ -2,6 +2,15 @@
     "MotherURL": "https://monjelmorshedsabbir.github.io/CZ_API_INFINITY/API/Categories/",
     "All": [
         {
+            "title": "Advice-উপদেশ",
+            "titleHex": "",
+            "iconUrl": "https://cdn.discordapp.com/attachments/1053041868432224266/1170421112392392804/advice.png",
+            "bgHex": "2a2a2a",
+            "bgImgUrl": "",
+            "lottieUrl": "",
+            "list": "advice"
+        },
+        {
             "title": "Alone",
             "titleHex": "fafafa",
             "iconUrl": "https://media.discordapp.net/attachments/1053041868432224266/1116316666238861393/alone.png",
