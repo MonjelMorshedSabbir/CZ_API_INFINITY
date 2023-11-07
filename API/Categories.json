@@ -47,15 +47,6 @@
             "list": "attitude"
         },
         {
-            "title": "Bad Guy",
-            "titleHex": "2a2a2a",
-            "iconUrl": "https://cdn.discordapp.com/attachments/1053041868432224266/1169551022318952458/bad.png",
-            "bgHex": "ffdfb8",
-            "bgImgUrl": "",
-            "lottieUrl": "off",
-            "list": "bad"
-        },
-        {
             "title": "Beauty & Fashion",
             "titleHex": "fafafa",
             "iconUrl": "https://media.discordapp.net/attachments/1053041868432224266/1116316667195170898/beauty.png",
