@@ -38,15 +38,6 @@
             "list": "birthday"
         },
         {
-            "title": "Breakup",
-            "titleHex": "e13934",
-            "iconUrl": "https://media.discordapp.net/attachments/1053041868432224266/1116316668168257616/break-up.png",
-            "bgHex": "F09A9D",
-            "bgImgUrl": "",
-            "lottieUrl": "off",
-            "list": "breakup"
-        },
-        {
             "title": "Busy",
             "titleHex": "",
             "iconUrl": "https://media.discordapp.net/attachments/1053041868432224266/1116316668407316611/busy.png",
