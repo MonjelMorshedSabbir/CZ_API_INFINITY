@@ -20,15 +20,6 @@
             "list": "alone"
         },
         {
-            "title": "Angry",
-            "titleHex": "ff4546",
-            "iconUrl": "https://media.discordapp.net/attachments/1053041868432224266/1116316666482147338/angry.png",
-            "bgHex": "C5B8A5",
-            "bgImgUrl": "",
-            "lottieUrl": "off",
-            "list": "angry"
-        },
-        {
             "title": "Anniversary",
             "titleHex": "f85f3a",
             "iconUrl": "https://media.discordapp.net/attachments/1053041868432224266/1116316666666680380/anniversary.png",
@@ -36,15 +27,6 @@
             "bgImgUrl": "",
             "lottieUrl": "",
             "list": "anniversary"
-        },
-        {
-            "title": "Attitude",
-            "titleHex": "fcea34",
-            "iconUrl": "https://media.discordapp.net/attachments/1053041868432224266/1116316666897383464/attitude.png",
-            "bgHex": "aeaab6",
-            "bgImgUrl": "",
-            "lottieUrl": "",
-            "list": "attitude"
         },
         {
             "title": "Beauty & Fashion",
@@ -74,15 +56,6 @@
             "list": "birthday"
         },
         {
-            "title": "Boys",
-            "titleHex": "fafafa",
-            "iconUrl": "https://media.discordapp.net/attachments/1053041868432224266/1142515751622811668/boys.png",
-            "bgHex": "1f4b74",
-            "bgImgUrl": "",
-            "lottieUrl": "off",
-            "list": "boys"
-        },
-        {
             "title": "Breakup",
             "titleHex": "e13934",
             "iconUrl": "https://media.discordapp.net/attachments/1053041868432224266/1116316668168257616/break-up.png",
@@ -108,15 +81,6 @@
             "bgImgUrl": "",
             "lottieUrl": "off",
             "list": "career"
-        },
-        {
-            "title": "Childhood",
-            "titleHex": "33c2ef",
-            "iconUrl": "https://media.discordapp.net/attachments/1053041868432224266/1116316758895235202/childhood.png",
-            "bgHex": "5d809a",
-            "bgImgUrl": "",
-            "lottieUrl": "off",
-            "list": "childhood"
         },
         {
             "title": "Creativity",
@@ -182,240 +146,6 @@
             "list": "family"
         },
         {
-            "title": "Festivals",
-            "titleHex": "df5769",
-            "iconUrl": "https://media.discordapp.net/attachments/1053041868432224266/1116316761864798298/festival.png",
-            "bgHex": "D1B993",
-            "bgImgUrl": "",
-            "lottieUrl": "",
-            "list": "festivals"
-        },
-        {
-            "title": "Fitness & Health",
-            "titleHex": "df5769",
-            "iconUrl": "https://media.discordapp.net/attachments/1053041868432224266/1116316762158403704/fitness.png",
-            "bgHex": "532a53",
-            "bgImgUrl": "",
-            "lottieUrl": "off",
-            "list": "fitness"
-        },
-        {
-            "title": "Flirt",
-            "titleHex": "ffe4ce",
-            "iconUrl": "https://media.discordapp.net/attachments/1053041868432224266/1116316843037184131/flirt.png",
-            "bgHex": "464866",
-            "bgImgUrl": "",
-            "lottieUrl": "off",
-            "list": "flirt"
-        },
-        {
-            "title": "Foodie",
-            "titleHex": "feb955",
-            "iconUrl": "https://media.discordapp.net/attachments/1053041868432224266/1116316843251085312/foodie.webp",
-            "bgHex": "6666a2",
-            "bgImgUrl": "",
-            "lottieUrl": "off",
-            "list": "foodie"
-        },
-        {
-            "title": "Forgiveness",
-            "titleHex": "358cff",
-            "iconUrl": "https://media.discordapp.net/attachments/1053041868432224266/1116316843590815795/forgiveness.png",
-            "bgHex": "B4D8C4",
-            "bgImgUrl": "",
-            "lottieUrl": "",
-            "list": "forgiveness"
-        },
-        {
-            "title": "Friday",
-            "titleHex": "fafafa",
-            "iconUrl": "https://media.discordapp.net/attachments/1053041868432224266/1151469747637063680/friday.png",
-            "bgHex": "165b7d",
-            "bgImgUrl": "",
-            "lottieUrl": "off",
-            "list": "friday"
-        },
-        {
-            "title": "Friendship",
-            "titleHex": "5d524c",
-            "iconUrl": "https://media.discordapp.net/attachments/1053041868432224266/1116316843813130250/friendship.png",
-            "bgHex": "bcbcbc",
-            "bgImgUrl": "",
-            "lottieUrl": "off",
-            "list": "friendship"
-        },
-        {
-            "title": "Funny",
-            "titleHex": "1e4b9a",
-            "iconUrl": "https://media.discordapp.net/attachments/1053041868432224266/1116316844031225946/funny.png",
-            "bgHex": "ca87c8",
-            "bgImgUrl": "",
-            "lottieUrl": "",
-            "list": "funny"
-        },
-        {
-            "title": "Game",
-            "titleHex": "2d2f3b",
-            "iconUrl": "https://media.discordapp.net/attachments/1053041868432224266/1116316844224155708/game.webp",
-            "bgHex": "10B981",
-            "bgImgUrl": "",
-            "lottieUrl": "",
-            "list": "game"
-        },
-        {
-            "title": "Good Night",
-            "titleHex": "9161de",
-            "iconUrl": "https://media.discordapp.net/attachments/1053041868432224266/1116316844559716402/goodNight.png",
-            "bgHex": "000000",
-            "bgImgUrl": "",
-            "lottieUrl": "",
-            "list": "goodnight"
-        },
-        {
-            "title": "Happiness",
-            "titleHex": "fafafa",
-            "iconUrl": "https://media.discordapp.net/attachments/1053041868432224266/1116316845130133534/happiness.png",
-            "bgHex": "F29A98",
-            "bgImgUrl": "",
-            "lottieUrl": "",
-            "list": "happiness"
-        },
-        {
-            "title": "Hate You",
-            "titleHex": "fe3e00",
-            "iconUrl": "https://media.discordapp.net/attachments/1053041868432224266/1116316845352423444/hateyou.png",
-            "bgHex": "464866",
-            "bgImgUrl": "",
-            "lottieUrl": "",
-            "list": "hateyou"
-        },
-        {
-            "title": "Heartbreak",
-            "titleHex": "bd2b2d",
-            "iconUrl": "https://media.discordapp.net/attachments/1053041868432224266/1116316845583126648/heartbreak.webp",
-            "bgHex": "D8B4C4",
-            "bgImgUrl": "",
-            "lottieUrl": "",
-            "list": "heartbreak"
-        },
-        {
-            "title": "Home",
-            "titleHex": "fae0a0",
-            "iconUrl": "https://media.discordapp.net/attachments/1053041868432224266/1116316866433007736/home.png",
-            "bgHex": "84a0b3",
-            "bgImgUrl": "",
-            "lottieUrl": "",
-            "list": "home"
-        },
-        {
-            "title": "Humorous",
-            "titleHex": "f58f8d",
-            "iconUrl": "https://media.discordapp.net/attachments/1053041868432224266/1116316866705641533/humorous.png",
-            "bgHex": "208563",
-            "bgImgUrl": "",
-            "lottieUrl": "off",
-            "list": "humorous"
-        },
-        {
-            "title": "Inspirational",
-            "titleHex": "",
-            "iconUrl": "https://media.discordapp.net/attachments/1053041868432224266/1116316867024388229/inspirational.png",
-            "bgHex": "4671c6",
-            "bgImgUrl": "",
-            "lottieUrl": "off",
-            "list": "inspirational"
-        },
-        {
-            "title": "Islamic",
-            "titleHex": "fafafa",
-            "iconUrl": "https://media.discordapp.net/attachments/1053041868432224266/1116316867322200104/islamic.webp",
-            "bgHex": "2d5c0a",
-            "bgImgUrl": "",
-            "lottieUrl": "",
-            "list": "islamic"
-        },
-        {
-            "title": "Life & Wisdom",
-            "titleHex": "d4fbff",
-            "iconUrl": "https://media.discordapp.net/attachments/1053041868432224266/1116316867619999786/lifeAndWisdom.png",
-            "bgHex": "468d67",
-            "bgImgUrl": "",
-            "lottieUrl": "off",
-            "list": "life"
-        },
-        {
-            "title": "Love",
-            "titleHex": "f766ae",
-            "iconUrl": "https://media.discordapp.net/attachments/1053041868432224266/1116316867833888788/love.png",
-            "bgHex": "567a57",
-            "bgImgUrl": "",
-            "lottieUrl": "off",
-            "list": "love"
-        },
-        {
-            "title": "Memories",
-            "titleHex": "7eb8f7",
-            "iconUrl": "https://media.discordapp.net/attachments/1053041868432224266/1116316868127506465/memories.png",
-            "bgHex": "296157",
-            "bgImgUrl": "",
-            "lottieUrl": "",
-            "list": "memories"
-        },
-        {
-            "title": "Miss You",
-            "titleHex": "fafafa",
-            "iconUrl": "https://media.discordapp.net/attachments/1053041868432224266/1116316868404314223/missyou.png",
-            "bgHex": "2b2b2b",
-            "bgImgUrl": "",
-            "lottieUrl": "",
-            "list": "missyou"
-        },
-        {
-            "title": "Monday",
-            "titleHex": "fafafa",
-            "iconUrl": "https://media.discordapp.net/attachments/1053041868432224266/1151469747997782086/monday.png",
-            "bgHex": "05b7bb",
-            "bgImgUrl": "",
-            "lottieUrl": "off",
-            "list": "monday"
-        },
-        {
-            "title": "Motivational",
-            "titleHex": "",
-            "iconUrl": "https://media.discordapp.net/attachments/1053041868432224266/1116316868689543229/motivational.png",
-            "bgHex": "626368",
-            "bgImgUrl": "",
-            "lottieUrl": "",
-            "list": "motivational"
-        },
-        {
-            "title": "Nature",
-            "titleHex": "fafafa",
-            "iconUrl": "https://media.discordapp.net/attachments/1053041868432224266/1116316868949594262/nature.png",
-            "bgHex": "96ab06",
-            "bgImgUrl": "",
-            "lottieUrl": "",
-            "list": "nature"
-        },
-        {
-            "title": "Observations",
-            "titleHex": "",
-            "iconUrl": "",
-            "bgHex": "",
-            "bgImgUrl": "https://media.discordapp.net/attachments/1053041868432224266/1116316908933873706/ovservations.jpg",
-            "lottieUrl": "off",
-            "list": "observation"
-        },
-        {
-            "title": "Photography",
-            "titleHex": "",
-            "iconUrl": "",
-            "bgHex": "",
-            "bgImgUrl": "https://media.discordapp.net/attachments/1053041868432224266/1116316909143605328/photography.jpg",
-            "lottieUrl": "off",
-            "list": "photography"
-        },
-        {
             "title": "Positive",
             "titleHex": "ffcbbe",
             "iconUrl": "https://media.discordapp.net/attachments/1053041868432224266/1116316909370101810/positive.png",
@@ -425,24 +155,6 @@
             "list": "positive"
         },
         {
-            "title": "Religious",
-            "titleHex": "fafafa",
-            "iconUrl": "https://media.discordapp.net/attachments/1053041868432224266/1116316909592379432/religious.png",
-            "bgHex": "357180",
-            "bgImgUrl": "",
-            "lottieUrl": "off",
-            "list": "religious"
-        },
-        {
-            "title": "Sad",
-            "titleHex": "40ac47",
-            "iconUrl": "https://media.discordapp.net/attachments/1053041868432224266/1116316909810499584/sad.png",
-            "bgHex": "687659",
-            "bgImgUrl": "",
-            "lottieUrl": "",
-            "list": "sad"
-        },
-        {
             "title": "Saturday",
             "titleHex": "fafafa",
             "iconUrl": "https://media.discordapp.net/attachments/1053041868432224266/1151469746160680970/saturday.png",
@@ -450,159 +162,6 @@
             "bgImgUrl": "",
             "lottieUrl": "off",
             "list": "saturday"
-        },
-        {
-            "title": "Self-Care",
-            "titleHex": "fafafa",
-            "iconUrl": "https://media.discordapp.net/attachments/1053041868432224266/1116316910041190420/selfcare.webp",
-            "bgHex": "F07C4A",
-            "bgImgUrl": "",
-            "lottieUrl": "off",
-            "list": "salfcare"
-        },
-        {
-            "title": "Siblings",
-            "titleHex": "fed2a4",
-            "iconUrl": "https://media.discordapp.net/attachments/1053041868432224266/1116316910347354143/siblings.png",
-            "bgHex": "a64d79",
-            "bgImgUrl": "",
-            "lottieUrl": "",
-            "list": "siblings"
-        },
-        {
-            "title": "Song Lyrics",
-            "titleHex": "fafafa",
-            "iconUrl": "https://media.discordapp.net/attachments/1053041868432224266/1116316910594834502/songLyrics.png",
-            "bgHex": "58b1d3",
-            "bgImgUrl": "",
-            "lottieUrl": "off",
-            "list": "songlyrics"
-        },
-        {
-            "title": "Sorry",
-            "titleHex": "fafafa",
-            "iconUrl": "",
-            "bgHex": "",
-            "bgImgUrl": "https://media.discordapp.net/attachments/1053041868432224266/1116316910808748082/sorry.jpg",
-            "lottieUrl": "",
-            "list": "sorry"
-        },
-        {
-            "title": "Success",
-            "titleHex": "fafafa",
-            "iconUrl": "https://media.discordapp.net/attachments/1053041868432224266/1116316911098134528/success.png",
-            "bgHex": "249f5e",
-            "bgImgUrl": "",
-            "lottieUrl": "ON",
-            "list": "success"
-        },
-        {
-            "title": "Summer",
-            "titleHex": "fafafa",
-            "iconUrl": "https://media.discordapp.net/attachments/1053041868432224266/1116316924624764948/summer.png",
-            "bgHex": "afb42b",
-            "bgImgUrl": "",
-            "lottieUrl": "",
-            "list": "summer"
-        },
-        {
-            "title": "Sunday",
-            "titleHex": "fafafa",
-            "iconUrl": "https://media.discordapp.net/attachments/1053041868432224266/1151469746462666782/sunday.png",
-            "bgHex": "058041",
-            "bgImgUrl": "",
-            "lottieUrl": "off",
-            "list": "sunday"
-        },
-        {
-            "title": "Thank You",
-            "titleHex": "fafafa",
-            "iconUrl": "https://media.discordapp.net/attachments/1053041868432224266/1116316924943548466/thankYou.png",
-            "bgHex": "daa02d",
-            "bgImgUrl": "",
-            "lottieUrl": "",
-            "list": "thankyou"
-        },
-        {
-            "title": "Thoughts",
-            "titleHex": "fafafa",
-            "iconUrl": "https://media.discordapp.net/attachments/1053041868432224266/1116316925153251440/thoughts.webp",
-            "bgHex": "022b53",
-            "bgImgUrl": "",
-            "lottieUrl": "off",
-            "list": "thoughts"
-        },
-        {
-            "title": "Thursday",
-            "titleHex": "fafafa",
-            "iconUrl": "https://media.discordapp.net/attachments/1053041868432224266/1151469746747871242/thursday.png",
-            "bgHex": "47a0a0",
-            "bgImgUrl": "",
-            "lottieUrl": "off",
-            "list": "thursday"
-        },
-        {
-            "title": "Travel",
-            "titleHex": "3f9a17",
-            "iconUrl": "",
-            "bgHex": "",
-            "bgImgUrl": "",
-            "lottieUrl": "https://assets9.lottiefiles.com/packages/lf20_WEKQB4gKq5.json",
-            "list": "travel"
-        },
-        {
-            "title": "Trust",
-            "titleHex": "",
-            "iconUrl": "https://media.discordapp.net/attachments/1053041868432224266/1116316925488791563/trust.png",
-            "bgHex": "24946b",
-            "bgImgUrl": "",
-            "lottieUrl": "",
-            "list": "trust"
-        },
-        {
-            "title": "TuesDay",
-            "titleHex": "fafafa",
-            "iconUrl": "https://media.discordapp.net/attachments/1053041868432224266/1151469747049873439/tuesday.png",
-            "bgHex": "bc6250",
-            "bgImgUrl": "",
-            "lottieUrl": "off",
-            "list": "tuesday"
-        },
-        {
-            "title": "Wednesday",
-            "titleHex": "fafafa",
-            "iconUrl": "https://media.discordapp.net/attachments/1053041868432224266/1151469747356053564/wednesday.png",
-            "bgHex": "086f3a",
-            "bgImgUrl": "",
-            "lottieUrl": "off",
-            "list": "wednesday"
-        },
-        {
-            "title": "Weekend",
-            "titleHex": "00c8c8",
-            "iconUrl": "https://media.discordapp.net/attachments/1053041868432224266/1116316925702717530/weekend.png",
-            "bgHex": "55437e",
-            "bgImgUrl": "",
-            "lottieUrl": "",
-            "list": "weekend"
-        },
-        {
-            "title": "Winter",
-            "titleHex": "fafafa",
-            "iconUrl": "",
-            "bgHex": "",
-            "bgImgUrl": "https://media.discordapp.net/attachments/1053041868432224266/1116316926168268900/winter.jpg",
-            "lottieUrl": "",
-            "list": "winter"
-        },
-        {
-            "title": "Work",
-            "titleHex": "fafafa",
-            "iconUrl": "",
-            "bgHex": "",
-            "bgImgUrl": "https://media.discordapp.net/attachments/1053041868432224266/1116316925933391942/work.jpg",
-            "lottieUrl": "",
-            "list": "work"
         }
     ]
 }
