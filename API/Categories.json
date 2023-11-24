@@ -263,6 +263,15 @@
             "list": "game"
         },
         {
+            "title": "Good Morning",
+            "titleHex": "ff9f4d",
+            "iconUrl": "https://cdn.discordapp.com/attachments/1053041868432224266/1177689488781234268/goodmorning.png",
+            "bgHex": "fef4dc",
+            "bgImgUrl": "",
+            "lottieUrl": "",
+            "list": "goodmorning"
+        },
+        {
             "title": "Good Night",
             "titleHex": "9161de",
             "iconUrl": "https://media.discordapp.net/attachments/1053041868432224266/1116316844559716402/goodNight.png",
