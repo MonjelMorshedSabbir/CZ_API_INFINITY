@@ -2,6 +2,15 @@
     "MotherURL": "https://monjelmorshedsabbir.github.io/CZ_API_INFINITY/API/Categories/",
     "All": [
         {
+            "title": "New Year",
+            "titleHex": "ff3d00",
+            "iconUrl": "https://cdn.discordapp.com/attachments/1053041868432224266/1188439979773415516/newYear.png",
+            "bgHex": "f78f8f",
+            "bgImgUrl": "",
+            "lottieUrl": "",
+            "list": "newYear"
+        },
+        {
             "title": "Winter",
             "titleHex": "fafafa",
             "iconUrl": "",
