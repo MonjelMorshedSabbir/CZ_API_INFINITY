@@ -3,9 +3,9 @@
     "All": [
         {
             "title": "New Year",
-            "titleHex": "b3b0bb",
+            "titleHex": "ff6600",
             "iconUrl": "https://cdn.discordapp.com/attachments/1053041868432224266/1188442118847467570/hny.png",
-            "bgHex": "fefefe",
+            "bgHex": "b3b0bb",
             "bgImgUrl": "",
             "lottieUrl": "",
             "list": "newYear"
