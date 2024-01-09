@@ -2,15 +2,6 @@
     "MotherURL": "https://monjelmorshedsabbir.github.io/CZ_API_INFINITY/API/Categories/",
     "All": [
         {
-            "title": "New Year",
-            "titleHex": "fafafa",
-            "iconUrl": "https://cdn.discordapp.com/attachments/1053041868432224266/1188442118847467570/hny.png",
-            "bgHex": "b3b0bb",
-            "bgImgUrl": "",
-            "lottieUrl": "",
-            "list": "newYear"
-        },
-        {
             "title": "Winter",
             "titleHex": "fafafa",
             "iconUrl": "",
@@ -423,6 +414,15 @@
             "bgImgUrl": "",
             "lottieUrl": "",
             "list": "nature"
+        },
+        {
+            "title": "New Year",
+            "titleHex": "fafafa",
+            "iconUrl": "https://cdn.discordapp.com/attachments/1053041868432224266/1188442118847467570/hny.png",
+            "bgHex": "b3b0bb",
+            "bgImgUrl": "",
+            "lottieUrl": "",
+            "list": "newYear"
         },
         {
             "title": "Observations",
