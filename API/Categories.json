@@ -2,15 +2,6 @@
     "MotherURL": "https://monjelmorshedsabbir.github.io/CZ_API_INFINITY/API/Categories/",
     "All": [
         {
-            "title": "Winter",
-            "titleHex": "fafafa",
-            "iconUrl": "",
-            "bgHex": "",
-            "bgImgUrl": "https://media.discordapp.net/attachments/1053041868432224266/1116316926168268900/winter.jpg",
-            "lottieUrl": "",
-            "list": "winter"
-        },
-        {
             "title": "Advice-উপদেশ",
             "titleHex": "",
             "iconUrl": "https://cdn.discordapp.com/attachments/1053041868432224266/1170421112392392804/advice.png",
@@ -170,7 +161,7 @@
             "bgHex": "584993",
             "bgImgUrl": "https://cdn.discordapp.com/attachments/1053041868432224266/1122839602730913832/EidMubarak.webp",
             "lottieUrl": "",
-            "list":"eid"
+            "list": "eid"
         },
         {
             "title": "Facebook & Instagram",
@@ -612,6 +603,15 @@
             "bgImgUrl": "",
             "lottieUrl": "",
             "list": "weekend"
+        },
+        {
+            "title": "Winter",
+            "titleHex": "fafafa",
+            "iconUrl": "",
+            "bgHex": "",
+            "bgImgUrl": "https://media.discordapp.net/attachments/1053041868432224266/1116316926168268900/winter.jpg",
+            "lottieUrl": "",
+            "list": "winter"
         },
         {
             "title": "Work",
