@@ -1,0 +1,546 @@
+{
+  "MotherURL": "https://monjelmorshedsabbir.github.io/CZ_API_INFINITY/API-V2/Categories/",
+  "listExtention": ".json",
+  "All": [
+    {
+      "title": "অপূর্ণ ভালোবাসা",
+      "titleHex": "fafafa",
+      "iconUrl": "https://i.postimg.cc/FK7nM5Hp/opurno-valobasa.jpg",
+      "bgHex": "010101",
+      "bgImgUrl": "",
+      "lottieUrl": "off",
+      "list": "incomplete_love"
+    },
+    {
+      "title": "অভিমান",
+      "titleHex": "fafafa",
+      "iconUrl": "https://i.postimg.cc/VNjvG4xD/2arrogant.png",
+      "bgHex": "096b3b",
+      "bgImgUrl": "",
+      "lottieUrl": "off",
+      "list": "arrogant"
+    },
+    {
+      "title": "অ্যাটিটিউড",
+      "iconUrl": "https://i.postimg.cc/6pZpqYpt/9attitude.png",
+      "titleHex": "1f1f1f",
+      "bgHex": "fe9791",
+      "bgImgUrl": "",
+      "lottieUrl": "",
+      "list": "attitude"
+    },
+    {
+      "title": "অনুপ্রেরণা",
+      "titleHex": "fdd05b",
+      "iconUrl": "https://i.postimg.cc/9MCMvZVV/1inspiration.png",
+      "bgHex": "090909",
+      "bgImgUrl": "",
+      "lottieUrl": "off",
+      "list": "onuprerona"
+    },
+    {
+      "title": "আত্মীয় স্বজন",
+      "titleHex": "1f1f1f",
+      "iconUrl": "https://i.postimg.cc/TwhQ4ZTx/relatives.png",
+      "bgHex": "b2b2b2",
+      "bgImgUrl": "",
+      "lottieUrl": "off",
+      "list": "relatives"
+    },
+    {
+      "title": "একাকিত্ব",
+      "titleHex": "fafafa",
+      "iconUrl": "https://i.postimg.cc/zXWZsjQ5/alone.png",
+      "bgHex": "464866",
+      "bgImgUrl": "",
+      "lottieUrl": "",
+      "list": "alone"
+    },
+    {
+      "title": "এস্থেটিক",
+      "titleHex": "ffffff",
+      "iconUrl": "",
+      "bgHex": "cccccc",
+      "bgImgUrl": "https://i.postimg.cc/J7k5H3np/aesthetic.webp",
+      "lottieUrl": "off",
+      "list": "aesthetic"
+    },
+    {
+      "title": "ইমোশনাল",
+      "titleHex": "fafafa",
+      "iconUrl": "https://i.postimg.cc/J0kf9yRR/emotional.png",
+      "bgHex": "0a3249",
+      "bgImgUrl": "",
+      "lottieUrl": "off",
+      "list": "emotional"
+    },
+    {
+      "title": "ইসলামিক",
+      "titleHex": "7fffcf",
+      "iconUrl": "https://i.postimg.cc/D0YwJNGy/5isamic.png",
+      "bgHex": "19936c",
+      "bgImgUrl": "",
+      "lottieUrl": "off",
+      "list": "islamic"
+    },
+    {
+      "title": "ঈদ",
+      "titleHex": "ffd26d",
+      "iconUrl": "https://i.postimg.cc/L4yXbJWK/6eid.png",
+      "bgHex": "40388d",
+      "bgImgUrl": "",
+      "lottieUrl": "off",
+      "list": "eid"
+    },
+    {
+      "title": "উদাসীনতা",
+      "titleHex": "fee4d6",
+      "iconUrl": "https://i.postimg.cc/0Q6Hp5Rx/extra.png",
+      "bgHex": "838383",
+      "bgImgUrl": "",
+      "lottieUrl": "off",
+      "list": "indifference"
+    },
+    {
+      "title": "কষ্টের স্ট্যাটাস",
+      "titleHex": "3fac44",
+      "iconUrl": "https://i.postimg.cc/qvznBN8k/sad.png",
+      "bgHex": "08172e",
+      "bgImgUrl": "",
+      "lottieUrl": "off",
+      "list": "sad"
+    },
+    {
+      "title": "গম্ভীর উক্তি",
+      "titleHex": "fafafa",
+      "iconUrl": "",
+      "bgHex": "cccccc",
+      "bgImgUrl": "https://images.pexels.com/videos/3205401/free-video-3205401.jpg",
+      "lottieUrl": "off",
+      "list": "gombhir"
+    },
+    {
+      "title": "ঘুম",
+      "titleHex": "fafafa",
+      "iconUrl": "",
+      "bgHex": "cccccc",
+      "bgImgUrl": "https://i.postimg.cc/8PDHMFxM/sleep.jpg",
+      "lottieUrl": "ON",
+      "list": "sleep"
+    },
+    {
+      "title": "চা",
+      "titleHex": "fafafa",
+      "iconUrl": "",
+      "bgHex": "cccccc",
+      "bgImgUrl": "https://twinings.co.uk/cdn/shop/articles/How_To_Taste_Tea.jpg",
+      "lottieUrl": "off",
+      "list": "teaGarden"
+    },
+    {
+      "title": "ছেলেদের ক্যাপশন",
+      "titleHex": "1f1f1f",
+      "iconUrl": "https://i.postimg.cc/QCRdmdy3/boys.png",
+      "bgHex": "cbaa7c",
+      "bgImgUrl": "",
+      "lottieUrl": "off",
+      "list": "cheleder"
+    },
+    {
+      "title": "ছোট ক্যাপশন",
+      "titleHex": "fafafa",
+      "iconUrl": "https://i.postimg.cc/W4jFfr6w/short-caption.png",
+      "bgHex": "fb5e3d",
+      "bgImgUrl": "",
+      "lottieUrl": "off",
+      "list": "short_captions"
+    },
+    {
+      "title": "জন্মদিন",
+      "titleHex": "c8ede6",
+      "iconUrl": "https://i.postimg.cc/250PQX1d/birthday.png",
+      "bgHex": "a697a6",
+      "bgImgUrl": "",
+      "lottieUrl": "off",
+      "list": "jonmodin"
+    },
+    {
+      "title": "জন্মদিন বেদনা",
+      "titleHex": "1f1f1f",
+      "iconUrl": "https://i.postimg.cc/QMkNkC7z/11birthday.png",
+      "bgHex": "cccccc",
+      "bgImgUrl": "",
+      "lottieUrl": "off",
+      "list": "birthday_sadness"
+    },
+    {
+      "title": "জীবন",
+      "titleHex": "d4fbff",
+      "iconUrl": "https://i.postimg.cc/Hng4VTT6/life-And-Wisdom.png",
+      "bgHex": "468d67",
+      "bgImgUrl": "",
+      "lottieUrl": "off",
+      "list": "life"
+    },
+    {
+      "title": "টাকার কষ্ট",
+      "titleHex": "455f5d",
+      "iconUrl": "https://i.postimg.cc/Pq9RbXkZ/money-issue.jpg",
+      "bgHex": "e9d5ca",
+      "bgImgUrl": "",
+      "lottieUrl": "off",
+      "list": "money_troubles"
+    },
+    {
+      "title": "ট্যুর",
+      "titleHex": "3f9a17",
+      "iconUrl": "",
+      "bgHex": "",
+      "bgImgUrl": "",
+      "lottieUrl": "https://assets9.lottiefiles.com/packages/lf20_WEKQB4gKq5.json",
+      "list": "tour"
+    },
+    {
+      "title": "ধন্যবাদ / কৃতজ্ঞতা",
+      "titleHex": "94c634",
+      "iconUrl": "https://i.postimg.cc/j5rJhvB5/thankYou.png",
+      "bgHex": "79160c",
+      "bgImgUrl": "",
+      "lottieUrl": "off",
+      "list": "thankful"
+    },
+    {
+      "title": "নারী",
+      "titleHex": "f8d1a6",
+      "iconUrl": "https://i.postimg.cc/Gt9cCjf0/13woman.png",
+      "bgHex": "8c7165",
+      "bgImgUrl": "",
+      "lottieUrl": "off",
+      "list": "nari"
+    },
+    {
+      "title": "নদী",
+      "titleHex": "1d8a3c",
+      "iconUrl": "",
+      "bgHex": "cccccc",
+      "bgImgUrl": "https://i0.wp.com/geologyscience.com/wp-content/uploads/2023/01/rural-summer-sunset-landscape-with-river-dramatic-colorful-sky-natural-background-aerial-view_548832-2395.jpg",
+      "lottieUrl": "off",
+      "list": "river"
+    },
+    {
+      "title": "নীরবতা",
+      "titleHex": "fafafa",
+      "iconUrl": "",
+      "bgHex": "cccccc",
+      "bgImgUrl": "https://i.postimg.cc/c19Xf1MJ/silence.jpg",
+      "lottieUrl": "off",
+      "list": "nirbota"
+    },
+    {
+      "title": "পারিবারিক কষ্ট",
+      "titleHex": "fafafa",
+      "iconUrl": "",
+      "bgHex": "ffffff",
+      "bgImgUrl": "https://i.postimg.cc/26FL9hfx/sorry.jpg",
+      "lottieUrl": "off",
+      "list": "family_pain"
+    },
+    {
+      "title": "প্রিয়জনের অসুস্থতা",
+      "titleHex": "fafafa",
+      "iconUrl": "https://i.postimg.cc/9fyDzZzj/thoughts.webp",
+      "bgHex": "1f1f1f",
+      "bgImgUrl": "",
+      "lottieUrl": "off",
+      "list": "beloved_health"
+    },
+    {
+      "title": "প্রবাসীর স্ত্রী",
+      "titleHex": "1f1f1f",
+      "iconUrl": "",
+      "bgHex": "cccccc",
+      "bgImgUrl": "https://i.postimg.cc/0NXLtTLG/foreigner-wf.jpg",
+      "lottieUrl": "off",
+      "list": "expatriate"
+    },
+    {
+      "title": "প্রোফাইল ক্যাপশন",
+      "titleHex": "1f1f1f",
+      "iconUrl": "https://i.postimg.cc/sg4FX2yN/bad.png",
+      "bgHex": "c0d9fb",
+      "bgImgUrl": "",
+      "lottieUrl": "off",
+      "list": "profile_pic"
+    },
+    {
+      "title": "ফুল",
+      "titleHex": "fafafa",
+      "iconUrl": "https://i.postimg.cc/L5xCXL2t/flower.png",
+      "bgHex": "084c74",
+      "bgImgUrl": "",
+      "lottieUrl": "off",
+      "list": "flower"
+    },
+    {
+      "title": "বন্ধু",
+      "titleHex": "5d524c",
+      "iconUrl": "https://i.postimg.cc/Kv5Q33kB/friendship.png",
+      "bgHex": "bcbcbc",
+      "bgImgUrl": "",
+      "lottieUrl": "off",
+      "list": "friends"
+    },
+    {
+      "title": "বন্ধু হারানো",
+      "titleHex": "fafafa",
+      "iconUrl": "",
+      "bgHex": "cccccc",
+      "bgImgUrl": "https://i.postimg.cc/W3BpyFQ7/lostfriend.jpg",
+      "lottieUrl": "off",
+      "list": "missing_friend"
+    },
+    {
+      "title": "বৈবাহিক দুঃখ",
+      "titleHex": "fafafa",
+      "iconUrl": "https://i.postimg.cc/xdk2SjGp/marital-sadnedd.jpg",
+      "bgHex": "1d99b3",
+      "bgImgUrl": "",
+      "lottieUrl": "off",
+      "list": "marital_distress"
+    },
+    {
+      "title": "বিদায় কথা",
+      "titleHex": "fafafa",
+      "iconUrl": "https://i.postimg.cc/6ptL8zMC/bidai.jpg",
+      "bgHex": "010101",
+      "bgImgUrl": "",
+      "lottieUrl": "off",
+      "list": "biday"
+    },
+    {
+      "title": "বিদেশ ফেরা",
+      "titleHex": "fafafa",
+      "iconUrl": "https://i.postimg.cc/MTptL5Cy/bidesh-fera.webp",
+      "bgHex": "7a7b7f",
+      "bgImgUrl": "",
+      "lottieUrl": "off",
+      "list": "return_home"
+    },
+    {
+      "title": "বিদ্রোহী",
+      "titleHex": "fafafa",
+      "iconUrl": "https://i.postimg.cc/qvFgCxr1/birdoho.png",
+      "bgHex": "000000",
+      "bgImgUrl": "",
+      "lottieUrl": "off",
+      "list": "prem"
+    },
+    {
+      "title": "ভালোবাসা",
+      "titleHex": "ffe217",
+      "iconUrl": "https://i.postimg.cc/25gxN4MR/love.png",
+      "bgHex": "567a57",
+      "bgImgUrl": "",
+      "lottieUrl": "off",
+      "list": "love"
+    },
+    {
+      "title": "ভালোবাসায় ব্যর্থতা",
+      "titleHex": "a8181e",
+      "iconUrl": "https://i.postimg.cc/wjGXDX6y/heartbreak.webp",
+      "bgHex": "eb6773",
+      "bgImgUrl": "",
+      "lottieUrl": "off",
+      "list": "love_failure"
+    },
+    {
+      "title": "ভাগ্য",
+      "titleHex": "fafafa",
+      "iconUrl": "https://i.postimg.cc/85pC2KmP/luck.png",
+      "bgHex": "2a2a2a",
+      "bgImgUrl": "",
+      "lottieUrl": "off",
+      "list": "luck"
+    },
+    {
+      "title": "মা",
+      "titleHex": "1f1f1f",
+      "iconUrl": "https://i.postimg.cc/4N9gQnk1/26care.png",
+      "bgHex": "b2d408",
+      "bgImgUrl": "",
+      "lottieUrl": "off",
+      "list": "mother"
+    },
+    {
+      "title": "মৃত্যু",
+      "titleHex": "1f1f1f",
+      "iconUrl": "https://i.postimg.cc/htRqygKR/27dead.png",
+      "bgHex": "639bc5",
+      "bgImgUrl": "",
+      "lottieUrl": "off",
+      "list": "mrittu"
+    },
+    {
+      "title": "রাগি",
+      "titleHex": "1f1f1f",
+      "iconUrl": "https://i.postimg.cc/dVRcgX0k/29emotional.png",
+      "bgHex": "ff6036",
+      "bgImgUrl": "",
+      "lottieUrl": "off",
+      "list": "ragi"
+    },
+    {
+      "title": "রাজনীতি",
+      "titleHex": "495867",
+      "iconUrl": "https://i.postimg.cc/wBkQ2fkQ/politics.png",
+      "bgHex": "bdd5ea",
+      "bgImgUrl": "",
+      "lottieUrl": "off",
+      "list": "politics"
+    },
+    {
+      "title": "রাতের স্ট্যাটাস",
+      "titleHex": "fafafa",
+      "iconUrl": "https://i.postimg.cc/43y8g43t/good-Night.png",
+      "bgHex": "080a08",
+      "bgImgUrl": "",
+      "lottieUrl": "off",
+      "list": "night"
+    },
+    {
+      "title": "রং বেরং",
+      "titleHex": "ffffff",
+      "iconUrl": "",
+      "bgHex": "cccccc",
+      "bgImgUrl": "https://i.postimg.cc/2S8VZC5G/colorful.jpg",
+      "lottieUrl": "off",
+      "list": "color"
+    },
+    {
+      "title": "রোমান্টিক",
+      "titleHex": "1f1f1f",
+      "iconUrl": "https://i.postimg.cc/3wJmPkTs/30romantic-date.png",
+      "bgHex": "cccccc",
+      "bgImgUrl": "https://img.freepik.com/premium-photo/blurred-valentine39s-day-background-romantic-blur-stock-photography-blurred-valentine39s-day-background-romantic-blur-stock-photography_936686-16171.jpg",
+      "lottieUrl": "off",
+      "list": "romantic"
+    },
+    {
+      "title": "শীতকাল",
+      "titleHex": "fafafa",
+      "iconUrl": "",
+      "bgHex": "cccccc",
+      "bgImgUrl": "https://i.postimg.cc/sXc14zp6/winter.jpg",
+      "lottieUrl": "off",
+      "list": "winter"
+    },
+    {
+      "title": "স্কুল লাইফ",
+      "titleHex": "fafafa",
+      "iconUrl": "https://i.postimg.cc/y6whk6mR/37.png",
+      "bgHex": "2d504a",
+      "bgImgUrl": "",
+      "lottieUrl": "off",
+      "list": "school_life"
+    },
+    {
+      "title": "শিক্ষামূলক",
+      "titleHex": "fafafa",
+      "iconUrl": "https://i.postimg.cc/d0VfVm5h/education.png",
+      "bgHex": "9fb0bc",
+      "bgImgUrl": "",
+      "lottieUrl": "off",
+      "list": "educational"
+    },
+    {
+      "title": "স্মৃতি",
+      "titleHex": "fafafa",
+      "iconUrl": "https://i.postimg.cc/mDMyLPWc/memories.png",
+      "bgHex": "6691c9",
+      "bgImgUrl": "",
+      "lottieUrl": "",
+      "list": "memories"
+    },
+    {
+      "title": "স্টাইলিশ",
+      "titleHex": "fafafa",
+      "iconUrl": "",
+      "bgHex": "cccccc",
+      "bgImgUrl": "https://img.freepik.com/free-vector/gradient-black-rose-gold-background_23-2151055208.jpg",
+      "lottieUrl": "off",
+      "list": "stylish"
+    },
+    {
+      "title": "সিঙ্গেল জীবন",
+      "titleHex": "df5158",
+      "iconUrl": "https://i.postimg.cc/3wkZqLLF/happiness.png",
+      "bgHex": "6ac7e5",
+      "bgImgUrl": "",
+      "lottieUrl": "off",
+      "list": "single_life"
+    },
+    {
+      "title": "স্বার্থপর",
+      "titleHex": "fafafa",
+      "iconUrl": "https://i.postimg.cc/25NvLPPS/sarthopor.png",
+      "bgHex": "000c00",
+      "bgImgUrl": "",
+      "lottieUrl": "off",
+      "list": "sarthopor_friend"
+    },
+    {
+      "title": "সমুদ্র",
+      "titleHex": "fafafa",
+      "iconUrl": "",
+      "bgHex": "cccccc",
+      "bgImgUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0a/a9/8b/44/sea-beach.jpg",
+      "lottieUrl": "off",
+      "list": "sea"
+    },
+    {
+      "title": "বৃষ্টির দিন",
+      "titleHex": "fafafa",
+      "iconUrl": "",
+      "bgHex": "cccccc",
+      "bgImgUrl": "https://static.vecteezy.com/system/resources/thumbnails/051/263/379/small/rainy-day-serenity-water-droplets-and-floating-autumn-leaves-photo.jpg",
+      "lottieUrl": "ON",
+      "list": "rainyDay"
+    },
+    {
+      "title": "পাহাড়",
+      "titleHex": "fafafa",
+      "iconUrl": "",
+      "bgHex": "cccccc",
+      "bgImgUrl": "https://t4.ftcdn.net/jpg/05/98/65/07/360_F_598650714_p3F50pUMuPYOZE6HuJYM8vX10CVhVX7N.jpg",
+      "lottieUrl": "off",
+      "list": "mountains"
+    },
+    {
+      "title": "প্রকৃতি",
+      "titleHex": "0f3e1c",
+      "iconUrl": "https://i.postimg.cc/G3xvXwL1/nature.png",
+      "bgHex": "96ab06",
+      "bgImgUrl": "https://t3.ftcdn.net/jpg/05/06/30/80/360_F_506308027_CDz21VQ7ed6seYBiFElgoTnWdc5I2plg.jpg",
+      "lottieUrl": "",
+      "list": "nature"
+    },
+    {
+      "title": "হাসির",
+      "titleHex": "fafafa",
+      "iconUrl": "https://i.postimg.cc/ht0PVhT5/40joke.png",
+      "bgHex": "cccccc",
+      "bgImgUrl": "https://img.freepik.com/free-vector/abstract-yellow-comic-zoom_1409-923.jpg",
+      "lottieUrl": "off",
+      "list": "smile"
+    },
+    {
+      "title": "হঠাৎ দেখা",
+      "titleHex": "fafafa",
+      "iconUrl": "https://i.postimg.cc/6q17zSqg/suddenmeet.webp",
+      "bgHex": "9fd4d2",
+      "bgImgUrl": "",
+      "lottieUrl": "off",
+      "list": "hotath_dekha"
+    }
+  ]
+}
