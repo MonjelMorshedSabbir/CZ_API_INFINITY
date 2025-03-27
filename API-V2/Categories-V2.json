@@ -1,6 +1,6 @@
 {
   "MotherURL": "https://monjelmorshedsabbir.github.io/CZ_API_INFINITY/API-V2/Categories/",
-  "listExtention": ".json",
+  "listExtension": ".json",
   "All": [
     {
       "title": "অপূর্ণ ভালোবাসা",
@@ -256,7 +256,7 @@
     },
     {
       "title": "প্রবাসীর স্ত্রী",
-      "titleHex": "1f1f1f",
+      "titleHex": "fafafa",
       "iconUrl": "",
       "bgHex": "cccccc",
       "bgImgUrl": "https://i.postimg.cc/0NXLtTLG/foreigner-wf.jpg",
