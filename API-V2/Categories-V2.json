@@ -78,7 +78,7 @@
       "title": "ইসলামিক",
       "titleHex": "0597d8",
       "iconUrl": "https://i.postimg.cc/xCwWrc62/islamic2-0.webp",
-      "bgHex": "19936c",
+      "bgHex": "090909",
       "bgImgUrl": "",
       "lottieUrl": "off",
       "list": "islamic"
@@ -96,7 +96,7 @@
       "title": "উদাসীনতা",
       "titleHex": "fee4d6",
       "iconUrl": "https://i.postimg.cc/0Q6Hp5Rx/extra.png",
-      "bgHex": "838383",
+      "bgHex": "1f1f1f",
       "bgImgUrl": "",
       "lottieUrl": "off",
       "list": "indifference"
@@ -112,7 +112,7 @@
     },
     {
       "title": "গম্ভীর উক্তি",
-      "titleHex": "fafafa",
+      "titleHex": "c8ede6",
       "iconUrl": "",
       "bgHex": "cccccc",
       "bgImgUrl": "https://i.postimg.cc/RhfxqcWh/Gomvir.jpg",
@@ -166,7 +166,7 @@
     },
     {
       "title": "জন্মদিন বেদনা",
-      "titleHex": "fafafa",
+      "titleHex": "fb5e3d",
       "iconUrl": "",
       "bgHex": "1f1f1f",
       "bgImgUrl": "https://i.postimg.cc/qR55sgPK/Sad_Birthday.jpg",
