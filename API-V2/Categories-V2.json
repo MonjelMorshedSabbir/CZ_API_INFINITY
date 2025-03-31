@@ -184,7 +184,7 @@
     },
     {
       "title": "টাকার কষ্ট",
-      "titleHex": "455f5d",
+      "titleHex": "fafafa",
       "iconUrl": "https://i.postimg.cc/Pq9RbXkZ/money-issue.jpg",
       "bgHex": "e9d5ca",
       "bgImgUrl": "",
@@ -193,7 +193,7 @@
     },
     {
       "title": "ট্যুর",
-      "titleHex": "3f9a17",
+      "titleHex": "fafafa",
       "iconUrl": "",
       "bgHex": "",
       "bgImgUrl": "",
@@ -202,7 +202,7 @@
     },
     {
       "title": "ধন্যবাদ / কৃতজ্ঞতা",
-      "titleHex": "94c634",
+      "titleHex": "fafafa",
       "iconUrl": "https://i.postimg.cc/j5rJhvB5/thankYou.png",
       "bgHex": "79160c",
       "bgImgUrl": "",
@@ -220,7 +220,7 @@
     },
     {
       "title": "নদী",
-      "titleHex": "1d8a3c",
+      "titleHex": "fafafa",
       "iconUrl": "",
       "bgHex": "cccccc",
       "bgImgUrl": "https://i0.wp.com/geologyscience.com/wp-content/uploads/2023/01/rural-summer-sunset-landscape-with-river-dramatic-colorful-sky-natural-background-aerial-view_548832-2395.jpg",
@@ -283,7 +283,7 @@
     },
     {
       "title": "বন্ধু",
-      "titleHex": "5d524c",
+      "titleHex": "fafafa",
       "iconUrl": "https://i.postimg.cc/Kv5Q33kB/friendship.png",
       "bgHex": "bcbcbc",
       "bgImgUrl": "",
@@ -298,15 +298,6 @@
       "bgImgUrl": "https://i.postimg.cc/W3BpyFQ7/lostfriend.jpg",
       "lottieUrl": "off",
       "list": "missing_friend"
-    },
-    {
-      "title": "বৈবাহিক দুঃখ",
-      "titleHex": "fafafa",
-      "iconUrl": "https://i.postimg.cc/xdk2SjGp/marital-sadnedd.jpg",
-      "bgHex": "1d99b3",
-      "bgImgUrl": "",
-      "lottieUrl": "off",
-      "list": "marital_distress"
     },
     {
       "title": "বিদায় কথা",
@@ -345,6 +336,15 @@
       "list": "rainyDay"
     },
     {
+      "title": "বৈবাহিক দুঃখ",
+      "titleHex": "fafafa",
+      "iconUrl": "https://i.postimg.cc/xdk2SjGp/marital-sadnedd.jpg",
+      "bgHex": "1d99b3",
+      "bgImgUrl": "",
+      "lottieUrl": "off",
+      "list": "marital_distress"
+    },
+    {
       "title": "ভালোবাসা",
       "titleHex": "ffe217",
       "iconUrl": "https://i.postimg.cc/25gxN4MR/love.png",
@@ -355,7 +355,7 @@
     },
     {
       "title": "ভালোবাসায় ব্যর্থতা",
-      "titleHex": "ff4435",
+      "titleHex": "fafafa",
       "iconUrl": "https://i.postimg.cc/wjGXDX6y/heartbreak.webp",
       "bgHex": "eb6773",
       "bgImgUrl": "",
@@ -400,7 +400,7 @@
     },
     {
       "title": "রাজনীতি",
-      "titleHex": "495867",
+      "titleHex": "fafafa",
       "iconUrl": "https://i.postimg.cc/wBkQ2fkQ/politics.png",
       "bgHex": "bdd5ea",
       "bgImgUrl": "",
@@ -481,7 +481,7 @@
     },
     {
       "title": "সিঙ্গেল জীবন",
-      "titleHex": "df5158",
+      "titleHex": "fafafa",
       "iconUrl": "https://i.postimg.cc/3wkZqLLF/happiness.png",
       "bgHex": "6ac7e5",
       "bgImgUrl": "",
@@ -517,7 +517,7 @@
     },
     {
       "title": "প্রকৃতি",
-      "titleHex": "0f3e1c",
+      "titleHex": "fafafa",
       "iconUrl": "https://i.postimg.cc/G3xvXwL1/nature.png",
       "bgHex": "96ab06",
       "bgImgUrl": "https://t3.ftcdn.net/jpg/05/06/30/80/360_F_506308027_CDz21VQ7ed6seYBiFElgoTnWdc5I2plg.jpg",
