@@ -76,8 +76,8 @@
     },
     {
       "title": "ইসলামিক",
-      "titleHex": "7fffcf",
-      "iconUrl": "https://i.postimg.cc/D0YwJNGy/5isamic.png",
+      "titleHex": "0597d8",
+      "iconUrl": "https://i.postimg.cc/xCwWrc62/islamic2-0.webp",
       "bgHex": "19936c",
       "bgImgUrl": "",
       "lottieUrl": "off",
@@ -115,7 +115,7 @@
       "titleHex": "fafafa",
       "iconUrl": "",
       "bgHex": "cccccc",
-      "bgImgUrl": "https://images.pexels.com/videos/3205401/free-video-3205401.jpg",
+      "bgImgUrl": "https://i.postimg.cc/RhfxqcWh/Gomvir.jpg",
       "lottieUrl": "off",
       "list": "gombhir"
     },
@@ -167,9 +167,9 @@
     {
       "title": "জন্মদিন বেদনা",
       "titleHex": "fafafa",
-      "iconUrl": "https://i.postimg.cc/QMkNkC7z/11birthday.png",
-      "bgHex": "cccccc",
-      "bgImgUrl": "",
+      "iconUrl": "",
+      "bgHex": "1f1f1f",
+      "bgImgUrl": "https://i.postimg.cc/qR55sgPK/Sad_Birthday.jpg",
       "lottieUrl": "off",
       "list": "birthday_sadness"
     },
@@ -192,7 +192,7 @@
       "list": "money_troubles"
     },
     {
-      "title": "ট্যুর",
+      "title": "ভ্রমণ | ট্যুর",
       "titleHex": "fafafa",
       "iconUrl": "",
       "bgHex": "",
@@ -201,7 +201,7 @@
       "list": "tour"
     },
     {
-      "title": "ধন্যবাদ / কৃতজ্ঞতা",
+      "title": "ধন্যবাদ | কৃতজ্ঞতা",
       "titleHex": "fafafa",
       "iconUrl": "https://i.postimg.cc/j5rJhvB5/thankYou.png",
       "bgHex": "79160c",
@@ -365,9 +365,9 @@
     {
       "title": "ভাগ্য",
       "titleHex": "fafafa",
-      "iconUrl": "https://i.postimg.cc/85pC2KmP/luck.png",
+      "iconUrl": "",
       "bgHex": "2a2a2a",
-      "bgImgUrl": "",
+      "bgImgUrl": "https://i.postimg.cc/KcW6LsbW/Luck.jpg",
       "lottieUrl": "off",
       "list": "luck"
     },
@@ -375,7 +375,7 @@
       "title": "মা",
       "titleHex": "fafafa",
       "iconUrl": "https://i.postimg.cc/4N9gQnk1/26care.png",
-      "bgHex": "b2d408",
+      "bgHex": "278f44",
       "bgImgUrl": "",
       "lottieUrl": "off",
       "list": "mother"
@@ -427,7 +427,7 @@
     },
     {
       "title": "রোমান্টিক",
-      "titleHex": "fafafa",
+      "titleHex": "ce8c6c",
       "iconUrl": "https://i.postimg.cc/3wJmPkTs/30romantic-date.png",
       "bgHex": "cccccc",
       "bgImgUrl": "https://img.freepik.com/premium-photo/blurred-valentine39s-day-background-romantic-blur-stock-photography-blurred-valentine39s-day-background-romantic-blur-stock-photography_936686-16171.jpg",
@@ -446,9 +446,9 @@
     {
       "title": "স্কুল লাইফ",
       "titleHex": "fafafa",
-      "iconUrl": "https://i.postimg.cc/y6whk6mR/37.png",
+      "iconUrl":"",
       "bgHex": "2d504a",
-      "bgImgUrl": "",
+      "bgImgUrl": "https://img.freepik.com/free-psd/3d-rendering-school-supplies-still-life_23-2151312988.jpg",
       "lottieUrl": "off",
       "list": "school_life"
     },
