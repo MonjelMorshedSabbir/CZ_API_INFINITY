@@ -23,7 +23,7 @@
     {
       "title": "অ্যাটিটিউড",
       "iconUrl": "https://i.postimg.cc/6pZpqYpt/9attitude.png",
-      "titleHex": "1f1f1f",
+      "titleHex": "fafafa",
       "bgHex": "fe9791",
       "bgImgUrl": "",
       "lottieUrl": "",
@@ -40,7 +40,7 @@
     },
     {
       "title": "আত্মীয় স্বজন",
-      "titleHex": "1f1f1f",
+      "titleHex": "fafafa",
       "iconUrl": "https://i.postimg.cc/TwhQ4ZTx/relatives.png",
       "bgHex": "b2b2b2",
       "bgImgUrl": "",
@@ -139,7 +139,7 @@
     },
     {
       "title": "ছেলেদের ক্যাপশন",
-      "titleHex": "1f1f1f",
+      "titleHex": "fafafa",
       "iconUrl": "https://i.postimg.cc/QCRdmdy3/boys.png",
       "bgHex": "cbaa7c",
       "bgImgUrl": "",
@@ -166,7 +166,7 @@
     },
     {
       "title": "জন্মদিন বেদনা",
-      "titleHex": "1f1f1f",
+      "titleHex": "fafafa",
       "iconUrl": "https://i.postimg.cc/QMkNkC7z/11birthday.png",
       "bgHex": "cccccc",
       "bgImgUrl": "",
@@ -256,7 +256,7 @@
     },
     {
       "title": "প্রবাসীর স্ত্রী",
-      "titleHex": "1f1f1f",
+      "titleHex": "fafafa",
       "iconUrl": "",
       "bgHex": "cccccc",
       "bgImgUrl": "https://i.postimg.cc/0NXLtTLG/foreigner-wf.jpg",
@@ -265,7 +265,7 @@
     },
     {
       "title": "প্রোফাইল ক্যাপশন",
-      "titleHex": "1f1f1f",
+      "titleHex": "fafafa",
       "iconUrl": "https://i.postimg.cc/sg4FX2yN/bad.png",
       "bgHex": "c0d9fb",
       "bgImgUrl": "",
@@ -336,6 +336,15 @@
       "list": "prem"
     },
     {
+      "title": "বৃষ্টির দিন",
+      "titleHex": "fafafa",
+      "iconUrl": "",
+      "bgHex": "cccccc",
+      "bgImgUrl": "",
+      "lottieUrl": "https://assets-v2.lottiefiles.com/a/8c15aa24-5ad0-11ef-a6b0-0b293f4a1f8e/ojUaqTtWe5.lottie",
+      "list": "rainyDay"
+    },
+    {
       "title": "ভালোবাসা",
       "titleHex": "ffe217",
       "iconUrl": "https://i.postimg.cc/25gxN4MR/love.png",
@@ -346,7 +355,7 @@
     },
     {
       "title": "ভালোবাসায় ব্যর্থতা",
-      "titleHex": "a8181e",
+      "titleHex": "ff4435",
       "iconUrl": "https://i.postimg.cc/wjGXDX6y/heartbreak.webp",
       "bgHex": "eb6773",
       "bgImgUrl": "",
@@ -364,7 +373,7 @@
     },
     {
       "title": "মা",
-      "titleHex": "1f1f1f",
+      "titleHex": "fafafa",
       "iconUrl": "https://i.postimg.cc/4N9gQnk1/26care.png",
       "bgHex": "b2d408",
       "bgImgUrl": "",
@@ -373,7 +382,7 @@
     },
     {
       "title": "মৃত্যু",
-      "titleHex": "1f1f1f",
+      "titleHex": "fafafa",
       "iconUrl": "https://i.postimg.cc/htRqygKR/27dead.png",
       "bgHex": "639bc5",
       "bgImgUrl": "",
@@ -382,7 +391,7 @@
     },
     {
       "title": "রাগি",
-      "titleHex": "1f1f1f",
+      "titleHex": "fafafa",
       "iconUrl": "https://i.postimg.cc/dVRcgX0k/29emotional.png",
       "bgHex": "ff6036",
       "bgImgUrl": "",
@@ -400,7 +409,7 @@
     },
     {
       "title": "রাতের স্ট্যাটাস",
-      "titleHex": "fafafa",
+      "titleHex": "b380db",
       "iconUrl": "https://i.postimg.cc/43y8g43t/good-Night.png",
       "bgHex": "080a08",
       "bgImgUrl": "",
@@ -418,7 +427,7 @@
     },
     {
       "title": "রোমান্টিক",
-      "titleHex": "1f1f1f",
+      "titleHex": "fafafa",
       "iconUrl": "https://i.postimg.cc/3wJmPkTs/30romantic-date.png",
       "bgHex": "cccccc",
       "bgImgUrl": "https://img.freepik.com/premium-photo/blurred-valentine39s-day-background-romantic-blur-stock-photography-blurred-valentine39s-day-background-romantic-blur-stock-photography_936686-16171.jpg",
@@ -496,15 +505,6 @@
       "bgImgUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0a/a9/8b/44/sea-beach.jpg",
       "lottieUrl": "off",
       "list": "sea"
-    },
-    {
-      "title": "বৃষ্টির দিন",
-      "titleHex": "fafafa",
-      "iconUrl": "",
-      "bgHex": "cccccc",
-      "bgImgUrl": "https://static.vecteezy.com/system/resources/thumbnails/051/263/379/small/rainy-day-serenity-water-droplets-and-floating-autumn-leaves-photo.jpg",
-      "lottieUrl": "ON",
-      "list": "rainyDay"
     },
     {
       "title": "পাহাড়",
