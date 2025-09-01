@@ -1,0 +1,351 @@
+{
+    "MotherURL": "https://monjelmorshedsabbir.github.io/CZ_API_INFINITY/API/Categories/",
+    "listExtension": ".json",
+    "All": [
+        {
+            "title": "Advice-উপদেশ",
+            "list": "advice",
+            "emoji": "💡"
+        },
+        {
+            "title": "Alone",
+            "list": "alone",
+            "emoji": "🥀"
+        },
+        {
+            "title": "Angry",
+            "list": "angry",
+            "emoji": "😡"
+        },
+        {
+            "title": "Anniversary",
+            "list": "anniversary",
+            "emoji": "🎉"
+        },
+        {
+            "title": "Attitude",
+            "list": "attitude",
+            "emoji": "😎"
+        },
+        {
+            "title": "Beauty & Fashion",
+            "list": "beauty",
+            "emoji": "💄"
+        },
+        {
+            "title": "Bike",
+            "list": "bike",
+            "emoji": "🏍️"
+        },
+        {
+            "title": "Birthday",
+            "list": "birthday",
+            "emoji": "🎂"
+        },
+        {
+            "title": "Boys",
+            "list": "boys",
+            "emoji": "👦"
+        },
+        {
+            "title": "Breakup",
+            "list": "breakup",
+            "emoji": "💔"
+        },
+        {
+            "title": "Busy",
+            "list": "busy",
+            "emoji": "📅"
+        },
+        {
+            "title": "Career",
+            "list": "career",
+            "emoji": "💼"
+        },
+        {
+            "title": "Childhood",
+            "list": "childhood",
+            "emoji": "🧸"
+        },
+        {
+            "title": "Creativity",
+            "list": "creativity",
+            "emoji": "🎨"
+        },
+        {
+            "title": "Culture",
+            "list": "culture",
+            "emoji": "🌏"
+        },
+        {
+            "title": "Development",
+            "list": "development",
+            "emoji": "🚀"
+        },
+        {
+            "title": "Education",
+            "list": "education",
+            "emoji": "📚"
+        },
+        {
+            "title": "EID Mubarak",
+            "list": "eid",
+            "emoji": "🌙"
+        },
+        {
+            "title": "Facebook & Instagram",
+            "list": "facebook",
+            "emoji": "📱"
+        },
+        {
+            "title": "Family",
+            "list": "family",
+            "emoji": "👨‍👩‍👧‍👦"
+        },
+        {
+            "title": "Festivals",
+            "list": "festivals",
+            "emoji": "🎊"
+        },
+        {
+            "title": "Fitness & Health",
+            "list": "fitness",
+            "emoji": "💪"
+        },
+        {
+            "title": "Flirt",
+            "list": "flirt",
+            "emoji": "😉"
+        },
+        {
+            "title": "Foodie",
+            "list": "foodie",
+            "emoji": "🍽️"
+        },
+        {
+            "title": "Forgiveness",
+            "list": "forgiveness",
+            "emoji": "🤝"
+        },
+        {
+            "title": "Friday",
+            "list": "friday",
+            "emoji": "🕌"
+        },
+        {
+            "title": "Friendship",
+            "list": "friendship",
+            "emoji": "🤝"
+        },
+        {
+            "title": "Funny",
+            "list": "funny",
+            "emoji": "😂"
+        },
+        {
+            "title": "Game",
+            "list": "game",
+            "emoji": "🎮"
+        },
+        {
+            "title": "Good Morning",
+            "list": "goodmorning",
+            "emoji": "☀️"
+        },
+        {
+            "title": "Good Night",
+            "list": "goodnight",
+            "emoji": "🌙"
+        },
+        {
+            "title": "Happiness",
+            "list": "happiness",
+            "emoji": "😊"
+        },
+        {
+            "title": "Hate You",
+            "list": "hateyou",
+            "emoji": "💢"
+        },
+        {
+            "title": "Heartbreak",
+            "list": "heartbreak",
+            "emoji": "💔"
+        },
+        {
+            "title": "Home",
+            "list": "home",
+            "emoji": "🏠"
+        },
+        {
+            "title": "Humorous",
+            "list": "humorous",
+            "emoji": "🤣"
+        },
+        {
+            "title": "Inspirational",
+            "list": "inspirational",
+            "emoji": "🌟"
+        },
+        {
+            "title": "Islamic",
+            "list": "islamic",
+            "emoji": "🕌"
+        },
+        {
+            "title": "Life & Wisdom",
+            "list": "life",
+            "emoji": "🌱"
+        },
+        {
+            "title": "Love",
+            "list": "love",
+            "emoji": "❤️"
+        },
+        {
+            "title": "Memories",
+            "list": "memories",
+            "emoji": "📸"
+        },
+        {
+            "title": "Miss You",
+            "list": "missyou",
+            "emoji": "😢"
+        },
+        {
+            "title": "Monday",
+            "list": "monday",
+            "emoji": "📅"
+        },
+        {
+            "title": "Motivational",
+            "list": "motivational",
+            "emoji": "🔥"
+        },
+        {
+            "title": "Nature",
+            "list": "nature",
+            "emoji": "🌿"
+        },
+        {
+            "title": "New Year",
+            "list": "newYear",
+            "emoji": "🎆"
+        },
+        {
+            "title": "Observations",
+            "list": "observation",
+            "emoji": "📝"
+        },
+        {
+            "title": "Photography",
+            "list": "photography",
+            "emoji": "📷"
+        },
+        {
+            "title": "Positive",
+            "list": "positive",
+            "emoji": "✨"
+        },
+        {
+            "title": "Religious",
+            "list": "religious",
+            "emoji": "🙏"
+        },
+        {
+            "title": "Sad",
+            "list": "sad",
+            "emoji": "😞"
+        },
+        {
+            "title": "Saturday",
+            "list": "saturday",
+            "emoji": "📆"
+        },
+        {
+            "title": "Self-Care",
+            "list": "selfcare",
+            "emoji": "🛀"
+        },
+        {
+            "title": "Siblings",
+            "list": "siblings",
+            "emoji": "👫"
+        },
+        {
+            "title": "Song Lyrics",
+            "list": "songlyrics",
+            "emoji": "🎶"
+        },
+        {
+            "title": "Sorry",
+            "list": "sorry",
+            "emoji": "🙏"
+        },
+        {
+            "title": "Success",
+            "list": "success",
+            "emoji": "🏆"
+        },
+        {
+            "title": "Summer",
+            "list": "summer",
+            "emoji": "☀️"
+        },
+        {
+            "title": "Sunday",
+            "list": "sunday",
+            "emoji": "🌞"
+        },
+        {
+            "title": "Thank You",
+            "list": "thankyou",
+            "emoji": "🙌"
+        },
+        {
+            "title": "Thoughts",
+            "list": "thoughts",
+            "emoji": "💭"
+        },
+        {
+            "title": "Thursday",
+            "list": "thursday",
+            "emoji": "📆"
+        },
+        {
+            "title": "Travel",
+            "list": "travel",
+            "emoji": "✈️"
+        },
+        {
+            "title": "Trust",
+            "list": "trust",
+            "emoji": "🤝"
+        },
+        {
+            "title": "TuesDay",
+            "list": "tuesday",
+            "emoji": "📆"
+        },
+        {
+            "title": "Wednesday",
+            "list": "wednesday",
+            "emoji": "📆"
+        },
+        {
+            "title": "Weekend",
+            "list": "weekend",
+            "emoji": "🎉"
+        },
+        {
+            "title": "Winter",
+            "list": "winter",
+            "emoji": "❄️"
+        },
+        {
+            "title": "Work",
+            "list": "work",
+            "emoji": "💼"
+        }
+    ]
+}

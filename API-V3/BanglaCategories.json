@@ -1,0 +1,306 @@
+{
+    "MotherURL": "https://monjelmorshedsabbir.github.io/CZ_API_INFINITY/API-V2/Categories/",
+    "listExtension": ".json",
+    "All": [
+        {
+            "title": "অপূর্ণ ভালোবাসা",
+            "list": "incomplete_love",
+            "emoji": "💔"
+        },
+        {
+            "title": "অভিমান",
+            "list": "arrogant",
+            "emoji": "😒"
+        },
+        {
+            "title": "অ্যাটিটিউড",
+            "list": "attitude",
+            "emoji": "😎"
+        },
+        {
+            "title": "অনুপ্রেরণা",
+            "list": "onuprerona",
+            "emoji": "🌟"
+        },
+        {
+            "title": "আত্মীয় স্বজন",
+            "list": "relatives",
+            "emoji": "👨‍👩‍👧‍👦"
+        },
+        {
+            "title": "একাকিত্ব",
+            "list": "alone",
+            "emoji": "🥀"
+        },
+        {
+            "title": "এস্থেটিক",
+            "list": "aesthetic",
+            "emoji": "✨"
+        },
+        {
+            "title": "ইমোশনাল",
+            "list": "emotional",
+            "emoji": "😭"
+        },
+        {
+            "title": "ইসলামিক",
+            "list": "islamic",
+            "emoji": "🕌"
+        },
+        {
+            "title": "ঈদ",
+            "list": "eid",
+            "emoji": "🌙"
+        },
+        {
+            "title": "উদাসীনতা",
+            "list": "indifference",
+            "emoji": "😶"
+        },
+        {
+            "title": "কষ্টের স্ট্যাটাস",
+            "list": "sad",
+            "emoji": "😢"
+        },
+        {
+            "title": "গম্ভীর উক্তি",
+            "list": "gombhir",
+            "emoji": "🤔"
+        },
+        {
+            "title": "ঘুম",
+            "list": "sleep",
+            "emoji": "😴"
+        },
+        {
+            "title": "চা",
+            "list": "teaGarden",
+            "emoji": "🍵"
+        },
+        {
+            "title": "ছেলেদের ক্যাপশন",
+            "list": "cheleder",
+            "emoji": "👦"
+        },
+        {
+            "title": "ছোট ক্যাপশন",
+            "list": "short_captions",
+            "emoji": "✍️"
+        },
+        {
+            "title": "জন্মদিন",
+            "list": "jonmodin",
+            "emoji": "🎂"
+        },
+        {
+            "title": "জন্মদিন বেদনা",
+            "list": "birthday_sadness",
+            "emoji": "🥺"
+        },
+        {
+            "title": "জীবন",
+            "list": "life",
+            "emoji": "🌍"
+        },
+        {
+            "title": "টাকার কষ্ট",
+            "list": "money_troubles",
+            "emoji": "💸"
+        },
+        {
+            "title": "ভ্রমণ | ট্যুর",
+            "list": "tour",
+            "emoji": "✈️"
+        },
+        {
+            "title": "ধন্যবাদ | কৃতজ্ঞতা",
+            "list": "thankful",
+            "emoji": "🙏"
+        },
+        {
+            "title": "নারী",
+            "list": "nari",
+            "emoji": "👩"
+        },
+        {
+            "title": "নদী",
+            "list": "river",
+            "emoji": "🌊"
+        },
+        {
+            "title": "নীরবতা",
+            "list": "nirbota",
+            "emoji": "🤫"
+        },
+        {
+            "title": "পারিবারিক কষ্ট",
+            "list": "family_pain",
+            "emoji": "💔👪"
+        },
+        {
+            "title": "প্রিয়জনের অসুস্থতা",
+            "list": "beloved_health",
+            "emoji": "🤒"
+        },
+        {
+            "title": "প্রবাসীর স্ত্রী",
+            "list": "expatriate",
+            "emoji": "🌍💌"
+        },
+        {
+            "title": "প্রোফাইল ক্যাপশন",
+            "list": "profile_pic",
+            "emoji": "🖼️"
+        },
+        {
+            "title": "ফুল",
+            "list": "flower",
+            "emoji": "🌸"
+        },
+        {
+            "title": "বন্ধু",
+            "list": "friends",
+            "emoji": "🤝"
+        },
+        {
+            "title": "বন্ধু হারানো",
+            "list": "missing_friend",
+            "emoji": "💔👬"
+        },
+        {
+            "title": "বিদায় কথা",
+            "list": "biday",
+            "emoji": "👋"
+        },
+        {
+            "title": "বিদেশ ফেরা",
+            "list": "return_home",
+            "emoji": "🏠✈️"
+        },
+        {
+            "title": "বিদ্রোহী",
+            "list": "prem",
+            "emoji": "🔥"
+        },
+        {
+            "title": "বৃষ্টির দিন",
+            "list": "rainyDay",
+            "emoji": "🌧️"
+        },
+        {
+            "title": "বৈবাহিক দুঃখ",
+            "list": "marital_distress",
+            "emoji": "💔💍"
+        },
+        {
+            "title": "ভালোবাসা",
+            "list": "love",
+            "emoji": "❤️"
+        },
+        {
+            "title": "ভালোবাসায় ব্যর্থতা",
+            "list": "love_failure",
+            "emoji": "💔"
+        },
+        {
+            "title": "ভাগ্য",
+            "list": "luck",
+            "emoji": "🍀"
+        },
+        {
+            "title": "মা",
+            "list": "mother",
+            "emoji": "👩‍👧"
+        },
+        {
+            "title": "মৃত্যু",
+            "list": "mrittu",
+            "emoji": "⚰️"
+        },
+        {
+            "title": "রাগি",
+            "list": "ragi",
+            "emoji": "😡"
+        },
+        {
+            "title": "রাজনীতি",
+            "list": "politics",
+            "emoji": "🗳️"
+        },
+        {
+            "title": "রাতের স্ট্যাটাস",
+            "list": "night",
+            "emoji": "🌙"
+        },
+        {
+            "title": "রং বেরং",
+            "list": "color",
+            "emoji": "🌈"
+        },
+        {
+            "title": "রোমান্টিক",
+            "list": "romantic",
+            "emoji": "💞"
+        },
+        {
+            "title": "শীতকাল",
+            "list": "winter",
+            "emoji": "❄️"
+        },
+        {
+            "title": "স্কুল লাইফ",
+            "list": "school_life",
+            "emoji": "🏫"
+        },
+        {
+            "title": "শিক্ষামূলক",
+            "list": "educational",
+            "emoji": "📚"
+        },
+        {
+            "title": "স্মৃতি",
+            "list": "memories",
+            "emoji": "🕰️"
+        },
+        {
+            "title": "স্টাইলিশ",
+            "list": "stylish",
+            "emoji": "💃"
+        },
+        {
+            "title": "সিঙ্গেল জীবন",
+            "list": "single_life",
+            "emoji": "🕺"
+        },
+        {
+            "title": "স্বার্থপর",
+            "list": "sarthopor_friend",
+            "emoji": "🙄"
+        },
+        {
+            "title": "সমুদ্র",
+            "list": "sea",
+            "emoji": "🌊"
+        },
+        {
+            "title": "পাহাড়",
+            "list": "mountains",
+            "emoji": "⛰️"
+        },
+        {
+            "title": "প্রকৃতি",
+            "list": "nature",
+            "emoji": "🌿"
+        },
+        {
+            "title": "হাসির",
+            "list": "smile",
+            "emoji": "😂"
+        },
+        {
+            "title": "হঠাৎ দেখা",
+            "list": "hotath_dekha",
+            "emoji": "👀"
+        }
+    ]
+}
