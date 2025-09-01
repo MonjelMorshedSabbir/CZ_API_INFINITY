@@ -3,11 +3,6 @@
     "listExtension": ".json",
     "All": [
         {
-            "title": "Advice-উপদেশ",
-            "list": "advice",
-            "emoji": "💡"
-        },
-        {
             "title": "Alone",
             "list": "alone",
             "emoji": "🥀"

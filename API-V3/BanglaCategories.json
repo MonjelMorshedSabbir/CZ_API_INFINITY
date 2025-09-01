@@ -3,6 +3,11 @@
     "listExtension": ".json",
     "All": [
         {
+            "title": "Advice-উপদেশ",
+            "list": "advice",
+            "emoji": "💡"
+        },
+        {
             "title": "অপূর্ণ ভালোবাসা",
             "list": "incomplete_love",
             "emoji": "💔"
